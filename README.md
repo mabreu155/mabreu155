@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi there👋, my name is Miguel
+I am a Software Developer with 2 years of experience, successfully applying my expertise
+in Front-end development and technical proficiency in Angular, REST APIs, and asynchronous
+programming to develop dynamic and responsive web applications. Problem-solving self-starter
+developer and acquired valuable skills working in an Agile Scrum environment with other
+technologies for comprehensive full-stack development and front-end mobile solutions, with the
+ability to deliver impactful performance and results, both as part of a team and autonomously.
 <!--
 **mabreu155/mabreu155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
