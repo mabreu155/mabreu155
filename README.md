@@ -1,56 +1,50 @@
-<!-- Header with customized colors and style -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f52ba&height=120&section=header"/>
+<!-- Animated Header with Strong Orange -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4328fb&height=120&section=header"/>
 
-<!-- Dynamic Title -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6347&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Miguel+Abreu%2C+;I'm+a+Full-Stack+Developer+with+Expertise+in+Angular+%7C+ASP.NET)](https://git.io/typing-svg)
 
-## Profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6600&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Miguel+Abreu%2C+;I'm+a+Full+Stack+Software+Developer)](https://git.io/typing-svg)
 
-I am Miguel Abreu, a Full-Stack Developer specializing in Angular and .NET, with 3 years of experience in web technologies. I am proficient in creating scalable web applications, integrating REST APIs, and employing asynchronous programming. I thrive in Agile Scrum environments, contributing to comprehensive full-stack development with a proactive approach to problem-solving and continuous learning.
 
-## Professional Experience
+## 🌍 Profile Overview
 
-### Junior Software Developer | EGAPI Technologies, Braga, Portugal
-#### August 2022 — August 2023
-- Developed dynamic user interfaces using Angular and integrated REST APIs for front-end development.
-- Enhanced and maintained existing platforms following established coding standards.
-- Contributed to continuous improvement and deployment within an Agile Scrum team.
-- Created full-stack solutions using Angular, ABP framework, and ASP.NET.
-- Designed and developed an Electronic Devices Mobile Controller application using the Ionic framework and MQTT Protocol.
+### 🇵🇹 Português
+Olá! Eu sou Miguel Abreu, um Desenvolvedor Full-Stack especializado em Angular e .NET, com 3 anos de experiência em tecnologias web. Atualmente, trabalho como Desenvolvedor Freelancer, sendo proficiente na criação de aplicações web escaláveis, integração de APIs REST e programação assíncrona. Eu prospero em ambientes Agile Scrum e tenho uma abordagem proativa para resolver problemas e aprender continuamente. Estou ativamente buscando novas oportunidades e estou aberto a diferentes tipos de contratos, incluindo emprego em tempo integral, projetos freelance, e trabalhos desafiadores que me permitam expandir minhas habilidades.
 
-### Freelance Developer | C-Dev, Remote
-#### March 2024 — May 2024
-- Developed a comprehensive e-commerce platform using .NET and WordPress for MoMoWheelz.
-- Implemented API architecture using .NET, ensuring seamless integration between front-end and back-end systems.
-- Developed new functionalities and ensured cross-browser compatibility based on designer mock-ups.
-- Utilized HTML, CSS, TypeScript, and responsive design techniques to create a user-friendly and visually appealing interface.
-- Optimized images and assets for fast loading times, ensuring efficient performance across various devices.
+#### Experiência Profissional
+<!-- Adicione sua experiência profissional em português aqui -->
 
-## Education
-- **Management and Programming of Computer Systems**, Escola Secundária Alberto Sampaio, Braga (July 2022)
-- **Angular and ASP.NET Core Development Certification**, Udemy (July 2022)
+#### Educação
+<!-- Adicione seus detalhes de educação em português aqui -->
 
-## Skills
-- **Programming Languages**: C#, TypeScript, HTML, CSS, SASS
-- **Frameworks & Libraries**: Angular, ASP.NET, ABP Framework, Ionic Framework
-- **Development Tools**: Git, Docker, RESTful APIs, Version Control
-- **Methodologies**: Agile Scrum
-- **Database Management**: PostgreSQL, MongoDB
-- **Other**: Asynchronous Programming, Object-Oriented Programming
+#### Habilidades
+<!-- Adicione suas habilidades em português aqui -->
 
-## Contact
-- 📱 +351 913 858 936
-- 📧 abreumigueldeveloper@gmail.com
-- 📍 Portugal
+#### Contato
+<!-- Adicione seus detalhes de contato em português aqui -->
 
-## Links
-- [LinkedIn](https://www.linkedin.com/in/miguel-abreu/)
-- [GitHub](https://github.com/mabreu155)
+#### Links
+<!-- Adicione seus links em português aqui -->
 
-## Soft Skills
-- Fast Learner
-- Strong Communication
-- Team Collaboration
-- Independent Problem Solver
-- Creative and Proactive Attitude
-  
+#### Soft Skills
+<!-- Adicione suas soft skills em português aqui -->
+
+### 🇬🇧 English
+Hello! I am Miguel Abreu, a Full-Stack Developer specializing in Angular and .NET, with 3 years of experience in web technologies. Currently working as a Freelance Developer, I am proficient in creating scalable web applications, integrating REST APIs, and employing asynchronous programming. I thrive in Agile Scrum environments and bring a proactive approach to problem-solving and continuous learning. I am actively seeking new opportunities and open to different kinds of contracts, including full-time employment, freelance projects, and challenging work that pushes the boundaries of my skills.
+
+#### Professional Experience
+<!-- Add your professional experience in English here -->
+
+#### Education
+<!-- Add your education details in English here -->
+
+#### Skills
+<!-- Add your skills in English here -->
+
+#### Contact
+<!-- Add your contact details in English here -->
+
+#### Links
+<!-- Add your links in English here -->
+
+#### Soft Skills
+<!-- Add your soft skills in English here -->
